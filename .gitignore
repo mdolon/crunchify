@@ -1,0 +1,15 @@
+.DS_Store
+.tmp
+.settings
+*.log
+.env
+.jshintignore
+.jshintrc
+node_modules
+tmp/
+dist/
+build/
+.vscode/settings.json
+Archive.zip
+source.zip
+package-lock.json
