@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/styles.scss"],"names":[],"mappings":"AAAA;AACA,2BAA2B;;AAE3B;AACA;AACA,8BAA8B","file":"styles.css","sourcesContent":[".cdk-overlay-container {\n  display: none !important; }\n\n.cdk-global-scrollblock {\n  position: relative !important;\n  overflow-y: auto !important; }\n"],"sourceRoot":""}

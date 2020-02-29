@@ -7,7 +7,6 @@
 .jshintrc
 node_modules
 tmp/
-dist/
 build/
 .vscode/settings.json
 Archive.zip
